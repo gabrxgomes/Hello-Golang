@@ -1,0 +1,1 @@
+Meu primeiro contato com Golang, pretendo me aprofundar mais essa semana para subir projetos mais complexos para meu repositório.
